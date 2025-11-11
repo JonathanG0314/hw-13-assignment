@@ -6,7 +6,7 @@
 
 html {
   font-size: 24px;
-  color: #144031;
+  color: #40221B;
   background-color: #fffffe;
   font-family: 'IBM Plex Sans', sans-serif;
 }
@@ -21,7 +21,7 @@ h1 {
   font-size: .5rem;
   font-weight: 700;
   text-transform: uppercase;
-  background-color: #144031;
+  background-color: #F28066;
   color: #fffffe;
 }
 
@@ -40,7 +40,7 @@ p {
 a {
   font-size: .4rem;
   font-weight: 600;
-  color: #144031;
+  color: #F2C7AE;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -64,23 +64,23 @@ a:hover{
 }
 
 .image1 {
-  background-color: yellow;
-  background-image: url("https://cdn.glitch.global/9a5b8496-9f33-46ea-925b-3429ffc5372c/Backrooms_Space.png?v=1666819450983");
+  background-color: blue;
+  background-image: url("https://s3.us-east-1.amazonaws.com/bomb-images/_hiresolution/52014ohp-karawalker2.png");
   background-size: cover;
   background-position: center;
 }
 
 .image2 {
-  background-color: yellow;
-  background-image: url("https://cdn.glitch.global/9a5b8496-9f33-46ea-925b-3429ffc5372c/FREqhyhUcAAXJKD.jpeg?v=1666819214339");
+  background-color: blue;
+  background-image: url("https://www.barbaralondon.net/wp-content/uploads/2025/02/Darkpool_a-crop-scaled.jpg");
   background-size: cover;
   background-position: center;
 }
 
 
 .image3 {
-  background-color: yellow;
-  background-image: url("https://cdn.glitch.global/9a5b8496-9f33-46ea-925b-3429ffc5372c/environment.webp?v=1667175740854");
+  background-color: blue;
+  background-image: url("https://harborlogistics.com/wp-content/uploads/2025/08/harbor_poster.jpg");
   background-size: cover;
   background-position: center;
 }
